@@ -1,2 +1,2 @@
-# 吃雞雞
+# 嗨
 Vacant repo
